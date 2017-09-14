@@ -27,6 +27,7 @@ module.exports = {
             },
             {
                 test: /\.css$/,
+                exclude: [/\.svg$/],
                 loader: "to-string-loader!css-loader"
             }
         ],
