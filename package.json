@@ -1,5 +1,5 @@
 {
-  "name": "ngx-mydatepicker",
+  "name": "torch-ngx-mydatepicker",
   "version": "2.1.0",
   "description": "Angular date picker",
   "keywords": [
@@ -7,11 +7,11 @@
     "Angular4",
     "date picker"
   ],
-  "author": "kekeh",
+  "author": "johnRambo2k14",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kekeh/ngx-mydatepicker.git"
+    "url": "https://github.com/johnRambo2k14/ngx-mydatepicker.git"
   },
   "scripts": {
     "start": "webpack-dev-server --config config/webpack.dev.js --progress",
