@@ -449,3 +449,7 @@
 .ngxmdp .daycell:last-of-type {
     border-right: 0;
 }
+
+.selectorarrow:after {
+    display: none;
+}
