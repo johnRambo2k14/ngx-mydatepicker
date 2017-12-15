@@ -142,7 +142,7 @@
 .ngxmdp .monthtable,
 .ngxmdp .yeartable {
     table-layout: fixed;
-    height: calc(100% - 30px);
+    height: calc(100% - 51px);
     background-color: #1B1D35;
     font-size: 14px;
     margin: 0 auto;
